@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.0",
+  "name": "Hacker Score",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/*", "http://www.github.com/*"
+      ],
+      "css": ["src/css/hackerscore.css"],
+      "js": ["src/js/hackerscore.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
