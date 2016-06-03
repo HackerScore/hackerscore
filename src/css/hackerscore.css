@@ -1,14 +1,7 @@
-.vcard-detail-hackerscore {
-  display: flex;
-}
-.vcard-detail-hackerscore > span {
-  flex: 1;
-  vertical-align: middle !important;
-  float: left;
-  margin-left: 5px;
-}
-
-.vcard-detail-hackerscore > span:first-child {
-    margin-left: -24px !important;
-    font-weight: bold;
+.vcard-hackerscore {
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+  margin-top: 10px;
+  padding-top: 12px;
 }
