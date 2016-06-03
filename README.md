@@ -12,7 +12,7 @@ Having an Account: 5 points
 Public Repo: 10 points per
 Public Gists: 1 point per
 Followers: 0.10 points per
-Most Started Public Repo: 1 point per star
+Most Stared Public Repo: 1 point per star
 ```
 
 ### Is this algorithim final?
