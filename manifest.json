@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "0.0.0",
-  "name": "Hacker Score",
+  "version": "0.0.1",
+  "name": "HackerScore",
   "content_scripts": [
     {
       "matches": [
