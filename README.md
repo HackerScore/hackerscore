@@ -1,6 +1,7 @@
 # hackerscore
 A Chrome Extension that associates a score with your GitHub profile
 
+### Where can I get it?
 
 ### How is my score calculated?
 
