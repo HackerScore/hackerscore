@@ -3,6 +3,8 @@ A Chrome Extension that associates a score with your GitHub profile
 
 ### Where can I get it?
 
+[https://chrome.google.com/webstore/detail/bnpmaklcijfadmhbabkjbpppipedeifi/](https://chrome.google.com/webstore/detail/bnpmaklcijfadmhbabkjbpppipedeifi/)
+
 ### How is my score calculated?
 
 ```
