@@ -28,4 +28,6 @@ I was inspired by the popular World of Warcraft addon [PlayerScore](http://www.w
 Let me be clear: I was no fan of PlayerScore / GearScore back in the day as it equated the skills of players in WoW to a single number. However,
 it did make Blizzard think more about the role of quality players in their game and has contributed to some positive changes in the game. Some people might say it ruined the game, though. Either way, it got the conversation started.
 
-My intent with this extension isn't to cause a rift in the community or narrow down everyone's contributions to a single number. The goal is to make people aware of how a person contributes to open source software and help people find the quality contributors to open source.
+My intent with this extension isn't to cause a rift in the community or narrow down everyone's contributions to a single number. The goal is to make people aware of how a person contributes to open source software and help people findquality contributors to open source.
+
+And, as mentioned above, the algorithm is not set in stone and is ultimately up to the community to determine.
